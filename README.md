@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 ---
 I'm a novice programmer, passionate about projects in Python and C++, especially creating games and plugins in Unreal Engine, as well as practical tools in Python. I sometimes work on various other projects too. I aspire to develop my hobby and learn something new.
 
