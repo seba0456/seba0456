@@ -1,6 +1,6 @@
 ### Hello there 👋
 ---
-I'm a novice programmer, passionate about projects in Python and C++, especially creating games and plugins in Unreal Engine, as well as practical tools in Python. I sometimes work on various other projects too. I aspire to develop my hobby and learn something new.
+I'm self-taught game developer who passionate about Computer Science specifically programming and 3D art.
 
 ![seba0456 github stats](https://github-readme-stats.vercel.app/api?username=seba0456&show_icons=true&hide_border=true)
 
