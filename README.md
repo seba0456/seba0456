@@ -2,9 +2,12 @@
 ---
 I'm self-taught game developer who passionate about Computer Science specifically programming and 3D art.
 
-![seba0456 github stats](https://github-readme-stats.vercel.app/api?username=seba0456&show_icons=true&hide_border=true)
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=seba0456)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display:flex;">
+    <img src="https://github-readme-stats.vercel.app/api?username=seba0456&show_icons=true&hide_border=false&theme=tokyonight" alt="seba0456 github stats" style="height: 150px;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=seba0456&layout=compact&theme=tokyonight&langs_count=6" alt="Top Langs" style="height: 150px;">
+    </a>
+</div>
 
 ---
 
