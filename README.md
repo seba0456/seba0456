@@ -2,7 +2,7 @@
 
 ---
 
-I'm a self-taught game developer passionate about Computer Science, specifically programming, 3D art and gamedev.
+I'm a self-taught game developer with a burning passion for Computer Science, especially in areas like programming, 3D art, and game development.
 
 <h1 align="center">
   <div style="display:flex; justify-content: center;">
