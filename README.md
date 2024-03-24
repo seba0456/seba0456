@@ -16,8 +16,3 @@ I'm a self-taught game developer with a burning passion for Computer Science, es
 ---
 
 I'm the creator of [Slendertubbies](https://seba0456.itch.io/slendertubbies).
-
-Check out my profiles:
-- [Unreal Marketplace](https://www.unrealengine.com/marketplace/en-US/profile/seba0456?count=20&sortBy=effectiveDate&sortDir=DESC&start=0)
-- [Artstation](https://www.artstation.com/seba0456)
-- [Sketchfab](https://sketchfab.com/sebaonlline)
